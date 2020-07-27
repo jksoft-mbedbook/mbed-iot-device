@@ -1,0 +1,5 @@
+BUILD
+.mbed
+mbed-os
+mbed-cloud-client
+.update-config
